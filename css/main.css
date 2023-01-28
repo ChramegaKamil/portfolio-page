@@ -14,6 +14,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.6rem;
   overflow-x: hidden;
+  width: 100vw;
 }
 
 a {
@@ -653,7 +654,7 @@ header.active {
   align-items: center;
   font-size: 4rem;
   font-weight: bold;
-  margin: 30rem auto 4rem auto;
+  margin: 15rem auto 4rem auto;
   width: max-content;
 }
 
