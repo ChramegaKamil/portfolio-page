@@ -51,3 +51,12 @@ const handleCurrentYear = () => {
     const year = new Date().getFullYear()
     spanYear.textContent = year}
 handleCurrentYear()
+
+
+
+
+var navi = document.querySelector("menu");
+
+navi.addEventListener("touchmove", function(e) {
+  e.preventDefault();
+}, false);
