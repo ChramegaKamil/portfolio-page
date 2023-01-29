@@ -142,7 +142,6 @@ header.active {
 
 .menu.active {
   transform: translateX(0);
-position: sticky;
 }
 
 .burger {
