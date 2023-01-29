@@ -55,7 +55,7 @@ handleCurrentYear()
 
 
 
-var navi = document.querySelector(".menu.active");
+var navi = document.querySelector("active");
 
 navi.addEventListener("touchmove", function(e) {
   e.preventDefault();
