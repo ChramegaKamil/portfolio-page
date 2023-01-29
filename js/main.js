@@ -39,7 +39,7 @@ menuLinks.forEach((link) =>
 );
 
 
-var navi = document.querySelector("menu");
+var navi = document.querySelector(".menu");
 
 navi.addEventListener("touchmove", function(e) {
   e.preventDefault();
